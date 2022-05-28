@@ -1,6 +1,6 @@
 
 
----------------------------------------------------------Demand of the Car Rentals on hourly basis---------------------------------
+-------------------------------------------------Demand of the Car Rentals on hourly basis---------------------------------
 
 About the data set:
  The data set is of a car rental company based out of Bangalore.In recent times, the demand for cars is on the rise. As a result, the company would like to tackle the problem of supply and demand. The ultimate goal of the company is to strike the balance between the supply and demand inorder to meet the user expectations. 
